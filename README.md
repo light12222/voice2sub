@@ -92,7 +92,7 @@ WINDOW_OPACITY = 0.85        # 0 = transparent, 1 = solid
 
 ## License
 
-MIT License © 2025 Yin Wang
+MIT License © 2025 [light12222](https://github.com/light12222)
 
 ---
 
@@ -101,7 +101,5 @@ MIT License © 2025 Yin Wang
 * OpenAI Whisper / WhisperX
 * Silero VAD (planned)
 * PyQt5, googletrans, loguru
-
-````
 
 ---
