@@ -1,0 +1,10 @@
+PyQt5
+pyaudio
+numpy
+faster-whisper
+silero-vad
+loguru
+googletrans==4.0.0rc1
+argostranslate
+librosa
+resampy
