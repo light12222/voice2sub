@@ -1,6 +1,3 @@
----
-
-````
 # Voice2Sub
 
 Real-time speech-to-subtitle and translation overlay for your screen, built with WhisperX and PyQt5.
